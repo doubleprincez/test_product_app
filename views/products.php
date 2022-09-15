@@ -11,7 +11,6 @@
                     <button class="btn btn-sm btn-secondary py-1 px-2" onclick="massDelete()">Mass Delete</button>
                 </div>
             </div>
-
         </div>
         <div class="col-12">
             <hr class="p-0 m-0"/>
